@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm CCY</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A hardworked person that tries to realise his dreams</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ccy0810&label=Profile%20views&color=0e75b6&style=flat" alt="ccy0810" /> </p>
+- 🏫I’m currently studying on [Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ccy0810" alt="ccy0810" /></a> </p>
+- 🌱 I’m currently learning **C++ and HTML**
+
+- 📫 How to reach me **chuahchunyi@graduate.utm.my**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
