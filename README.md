@@ -1,5 +1,5 @@
 <img align="right" width="300px" src="https://github.com/CCY0810/CCY0810/assets/147255304/43291a3b-e8dc-43e4-bc93-b46940e71eeb" >
-
+<!-- ICEGIF,2024.Hello Gif.https://www.icegif.com/hello-10/. -->
 <h1 align="center">Hi 👋, I'm Chun Yi</h1>
 <h3 align="center">A hardworked person that tries his best to realise his dreams</h3>
 
