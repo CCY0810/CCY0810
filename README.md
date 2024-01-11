@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="C:\Users\CCY\Downloads\icegif-228.gif"  />
-</div>
+
+![icegif-228](https://github.com/CCY0810/CCY0810/assets/147255304/7603432e-8aab-4dd3-85c4-8272b63f2457)
+
 <h1 align="center">Hi 👋, I'm Chun Yi</h1>
 <h3 align="center">A hardworked person that tries his best to realise his dreams</h3>
 
