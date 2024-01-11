@@ -8,7 +8,7 @@
 
 - 🏫I’m currently studying on **[Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)**
 
-- 🌱 I’m currently learning **C++ and HTML**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at 
 
@@ -19,11 +19,12 @@
 
 
 # 💻 Tech Stack:
+<h3 align="left">Languages:</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
 </div>
+<h3 align="left">Tools:</h3>
+<img src="https://github.com/CCY0810/CCY0810/assets/147255304/dbd3e905-271e-4ea9-8b64-12cdde4a8f91" height="50" alt="visual studio code logo"  />
 
 
 # 📊 GitHub Stats:
