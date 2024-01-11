@@ -8,7 +8,7 @@
 
 - 🏫I’m currently studying on **[Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and HTML5**
 
 - 👨‍💻 All of my projects are available at 
 
@@ -20,15 +20,13 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-</div>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> </a> </p>
+
 <h3 align="left">Tools:</h3>
 <img src="https://github.com/CCY0810/CCY0810/assets/147255304/dbd3e905-271e-4ea9-8b64-12cdde4a8f91" height="50" alt="visual studio code logo"  />
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&locale=en" alt="ccy0810" /></p>
+<p align="left"> <a href="http://www.github.com/ccy0810"><img src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccy0810's GitHub stats" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ccy0810&" alt="ccy0810" /></p>
-
+<p align="left"><a href="http://www.github.com/ccy0810"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccy0810&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
