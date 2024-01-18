@@ -9,9 +9,11 @@
 - 🏫I’m currently studying on **[Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)**
 
 - 🌱 I’m currently learning **C++ and HTML5**
-
-<!-- - 📖All of my projects are available at -->
  
+# 📖 Education:
+- **Bachelor of Computer Science (Graphic and Multimedia Software)** (Now)
+- **STPM** (2022)
+- **SPM** (2020）
 
 # 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
@@ -30,8 +32,7 @@
 <h3 align="left">Tools:</h3>
 <p>
 <img src="https://github.com/CCY0810/CCY0810/assets/147255304/dbd3e905-271e-4ea9-8b64-12cdde4a8f91" height="40" alt="visual studio code logo"  />
-<img src="https://github.com/CCY0810/CCY0810/assets/147255304/ff9b9ad8-12dd-475a-818c-ee72ddeef479" height="40" alt="visual studio code logo"  />
-<img src="" height="40" alt="visual studio code logo"  />
+<img src="https://github.com/CCY0810/CCY0810/assets/147255304/ff9b9ad8-12dd-475a-818c-ee72ddeef479" height="40" alt="PR"  />
 </p>
 
 
