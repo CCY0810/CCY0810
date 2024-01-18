@@ -13,9 +13,7 @@
 - 📖All of my projects are available at
 
 # 👨‍💻Projects:
-- <a href="https://github.com/CCY0810/TIS_Project" >Technology and Information System (TIS)</a>
-
-
+- **[Technology and Information System (TIS)](https://github.com/CCY0810/TIS_Project)**
 
 # 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
