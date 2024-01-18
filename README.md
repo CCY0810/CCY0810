@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at 
 
-# 📫Connect with me  
+# 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
 </a>
