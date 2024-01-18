@@ -12,8 +12,6 @@
 
 <!-- - 📖All of my projects are available at -->
  
-# 👨‍💻Projects:
-- **[Technology and Information System (TIS)](https://github.com/CCY0810/TIS_Project)**
 
 # 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
@@ -23,11 +21,22 @@
 
 # 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> </a> </p>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/></p>
 
 <h3 align="left">Tools:</h3>
+<p>
 <img src="https://github.com/CCY0810/CCY0810/assets/147255304/dbd3e905-271e-4ea9-8b64-12cdde4a8f91" height="40" alt="visual studio code logo"  />
+<img src="https://github.com/CCY0810/CCY0810/assets/147255304/ff9b9ad8-12dd-475a-818c-ee72ddeef479" height="40" alt="visual studio code logo"  />
+<img src="" height="40" alt="visual studio code logo"  />
+</p>
 
+
+# 👨‍💻Projects:
+- **[Technology and Information System (TIS)](https://github.com/CCY0810/TIS_Project)**
 
 # 📊 GitHub Stats:
 <p align="left"> <a href="http://www.github.com/ccy0810"><img src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccy0810's GitHub stats" /></a>
