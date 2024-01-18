@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning **C++ and HTML5**
 
-- 📖All of my projects are available at
-
+<!-- - 📖All of my projects are available at -->
+ 
 # 👨‍💻Projects:
 - **[Technology and Information System (TIS)](https://github.com/CCY0810/TIS_Project)**
 
