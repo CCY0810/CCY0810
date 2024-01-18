@@ -12,10 +12,9 @@
 
 - 📖All of my projects are available at
 
-# 👨‍💻Project:
-<ul>
-<li><a href="https://github.com/CCY0810/TIS_Project" >Technology and Information System (TIS)</a></li>
-</ul>
+# 👨‍💻Projects:
+- <a href="https://github.com/CCY0810/TIS_Project" >Technology and Information System (TIS)</a>
+
 
 
 # 📫Connect with me:  
