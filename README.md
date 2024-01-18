@@ -9,17 +9,31 @@
 - 🏫I’m currently studying on **[Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)**
 
 - 🌱 I’m currently learning **C++ and HTML5**
- 
-# 📖 Education:
-- **Bachelor of Computer Science (Graphic and Multimedia Software)** (Now)
-- **STPM** (2022)
-- **SPM** (2020）
 
 # 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
 </a>
 
+
+# 📖 Education:
+- **Bachelor of Computer Science (Graphic and Multimedia Software)** (Now)
+- **STPM** (2022)
+- **SPM** (2020）
+
+# 👨‍🎓Position
+- **Vice Chairman of School Level Scout Session 2021/2022** 
+- **Vice Chairman of School Level Graduation Night Project Session 2021/2022**
+- **Chairman of School Level Earth Day Quiz Competition Project Session 2021/2022**
+- **Vice Chairman of School Level General Knowledge Quiz Competition Project Session 2021/2022**
+- **Librarian of School Level Form Six Library Session 2021/2022**
+
+# Involvement & Achievement
+- **Distinction in the Malaysian National Chemistry Quiz 2022**
+- **First place in the National Level St. John Ambulance Knowledge Quiz 2022**
+- **First Place in the National Level Citizenship Quiz 2022**
+- **Participation in State Level Science Infographic Competition STEM Online Challenge 2020**
+- **First runner-up in the National Level 100KM Tung Hua Virtual Run, Jog, or Walk 2022**
 
 # 💻 Tech Stack:
 <h3 align="left">Languages:</h3>
@@ -36,8 +50,10 @@
 </p>
 
 
+
 # 👨‍💻Projects:
 - **[Technology and Information System (TIS)](https://github.com/CCY0810/TIS_Project)**
+
 
 # 📊 GitHub Stats:
 <p align="left"> <a href="http://www.github.com/ccy0810"><img src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccy0810's GitHub stats" /></a>
