@@ -8,7 +8,7 @@
 
 - 🏫I’m currently studying on **[Computer Science (Graphic and Multimedia Software) at UTM](https://comp.utm.my/secv/)**
 
-- 🌱 I’m currently learning **C++ and HTML5**
+- 🌱 I’m currently learning **Unity**
 
 # 📫Connect with me:  
 <a href="mailto:chuahchunyi@graduate.utm.my" target="_blank">
@@ -24,8 +24,6 @@
 # 👨‍🎓Position
 - **Vice Chairman of School Level Scout Session 2021/2022** 
 - **Vice Chairman of School Level Graduation Night Project Session 2021/2022**
-- **Chairman of School Level Earth Day Quiz Competition Project Session 2021/2022**
-- **Vice Chairman of School Level General Knowledge Quiz Competition Project Session 2021/2022**
 - **Librarian of School Level Form Six Library Session 2021/2022**
 
 # 🏅Involvement & Achievement
