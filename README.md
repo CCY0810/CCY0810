@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chuah Chun Yi</h1>
 
-<h3 align="center">Computer Science Student @ Universiti Teknologi Malaysia | Graphics & Multimedia Software | Seeking Software Engineering Internship (Sep 2026 – Feb 2027)</h3>
+<h3 align="center">
+Computer Science Student @ Universiti Teknologi Malaysia  
+Graphics & Multimedia Software | Seeking Software Engineering Internship (Sep 2026 – Feb 2027)
+</h3>
 
 ---
 
@@ -8,13 +11,13 @@
 
 🎓 Computer Science student specializing in **Graphics and Multimedia Software** at **[Universiti Teknologi Malaysia (UTM)](https://comp.utm.my/secv/)**
 
-💻 I'm passionate about **software development, image proceessing and computer vision**
+💻 Passionate about **software development, image processing, and computer vision**
 
 📈 Current CGPA: **4.00 / 4.00**
 
-🌱 Currently learning **Data Visualization, Real-Time Computer Graphics, Multimedia Data Proceesing & Multimedia Web Programming**
+🌱 Currently learning **Data Visualization, Real-Time Computer Graphics, Multimedia Data Processing, and Multimedia Web Programming**
 
-🚀 Seeking **Software Engineering Internship (Sep 2026 – Feb 2027)**
+🚀 Seeking a **Software Engineering Internship (Sep 2026 – Feb 2027)*
 
 ---
 
@@ -32,32 +35,19 @@
 # 🛠 Tech Stack
 
 ### Programming Languages
-- C++
-- Java
-- Python
-- JavaScript
-- PHP
+C++ • Java • Python • JavaScript • PHP
 
 ### Web Development
-- HTML
-- CSS
-- Node.js
+HTML • CSS • Node.js
 
 ### Graphics & Image Processing
-- OpenGL
-- OpenCV
-- PyQt6
+OpenGL • OpenCV • PyQt6
 
 ### Database
-- MySQL
-- SQL
+MySQL • SQL
 
 ### Tools
-- Git & GitHub
-- VS Code
-- MySQL Workbench
-- Figma
-- Tableau
+Git • GitHub • VS Code • MySQL Workbench • Figma • Tableau
 
 ---
 
@@ -68,7 +58,7 @@
 
 A web-based platform designed to centralize event management, registration, and participation tracking for the IEM UTM Student Section. The system streamlines how members discover events, register, track participation, and receive updates through a single digital platform.
 
-The platform addresses the issue of scattered event information and inefficient manual registration processes by providing a centralized system for event organizers and members to manage events, communication, and participation data efficiently.
+The platform addresses challenges such as scattered event information and manual registration processes by providing a centralized system for managing events, communication, and participation data.
 
 **Key Features**
 1. User Authentication System
@@ -101,7 +91,7 @@ The platform addresses the issue of scattered event information and inefficient 
 - Role-based access control
 - Secure logout and session management
 
-My Role — Scrum Master
+**My Role: Scrum Master**
 - Led the Agile development process using Scrum methodology
 - Coordinated sprint planning, sprint reviews, and team progress tracking
 - Managed communication between team members and stakeholders
@@ -191,9 +181,16 @@ Hanfu Club, UTM
 ---
 
 # 📊 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=ccy0810&color=0891b2&style=flat-square)
+
 <p align="left"> <a href="http://www.github.com/ccy0810"><img src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccy0810's GitHub stats" /></a>
 
 <p align="left"><a href="http://www.github.com/ccy0810"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccy0810&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccy0810&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
