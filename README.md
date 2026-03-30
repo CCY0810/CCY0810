@@ -17,7 +17,7 @@ Graphics & Multimedia Software | Seeking Software Engineering Internship (Sep 20
 
 🌱 Currently learning **Data Visualization, Real-Time Computer Graphics, Multimedia Data Processing, and Multimedia Web Programming**
 
-🚀 Seeking a **Software Engineering Internship (Sep 2026 – Feb 2027)*
+🚀 Seeking a **Software Engineering Internship (Sep 2026 – Feb 2027)**
 
 ---
 
