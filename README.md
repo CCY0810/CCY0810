@@ -184,13 +184,10 @@ Hanfu Club, UTM
 
 ![](https://komarev.com/ghpvc/?username=ccy0810&color=0891b2&style=flat-square)
 
-<p align="left"> <a href="http://www.github.com/ccy0810"><img src="https://github-readme-stats.vercel.app/api?username=ccy0810&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ccy0810's GitHub stats" /></a>
+
 
 <p align="left"><a href="http://www.github.com/ccy0810"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccy0810&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccy0810&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
